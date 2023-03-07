@@ -1,10 +1,10 @@
 # Tặng người yêu
 ## _Một điều nho nhỏ cho người yêu_
-Link Demo: https://binncodee.github.io/Lovee_Camm_Lyy/
+Link Demo: 
 
 ## Tác giả: Trần Hoàng Hải
 
-**Facebook**:https://www.facebook.com/Iraneeeeman/</a>
+**Facebook**:https://www.facebook.com/CrewBin.Jerry/</a>
 
 ## Cách sử dụng:
 
